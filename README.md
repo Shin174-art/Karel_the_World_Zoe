@@ -16,7 +16,7 @@
     * 解決差一錯誤(Off-by-one bug)
   * *[BeeperRowAdv](https://github.com/Shin174-art/Karel_the_World_Zoe/blob/main/Karel_the_World/BeeperRowAdv.py)*
     * 在設有零星Beeper的Row讓Karel空白處放上Beeper，如果腳下已經有Beeper則直接前往下一格
-    * 引入if,else問句
+    * 引入if,else問句、解決while無限迴圈bug
   * *[SteepleChase](https://github.com/Shin174-art/Karel_the_World_Zoe/blob/main/Karel_the_World/Steeplechase.py)*
     * 讓Karel跳過11個長短不一的欄杆
     * 綜合上述定義、for i in range迴圈、while迴圈、if問句等所學幫助Karel跳過所有的欄杆！
