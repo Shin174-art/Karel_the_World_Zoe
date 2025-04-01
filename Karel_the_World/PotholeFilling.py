@@ -13,7 +13,7 @@ from StepUp import *
 def go_in():
     """
     pre-condition:Karel is at the upper left of the pothole, facing East
-    post-condition:Karel is in the pothole, facig South
+    post-condition:Karel is in the pothole, facing South
     """
     move()
     turn_right()
@@ -21,7 +21,7 @@ def go_in():
 
 def go_out():
     """
-    pre-condition:Karel is in the pothole, facig South
+    pre-condition:Karel is in the pothole, facing South
     post-condition:Karel is at the upper left of the pothole, facing East
     """
     turn_around()
